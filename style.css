@@ -1,0 +1,62 @@
+/*CSS reset settings here*/
+#wrapper{
+    width: 970px;
+    background-color: brown;
+    margin: 0px auto;
+}
+#header{
+    width: 970px;
+    background-color: silver;
+}
+#profile_img{
+    width: 425px;
+    background-color: silver;
+    box-sizing: border-box;
+    padding: 5px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+#about{
+    background-color: silver;
+    display: inline-block;
+    width:500px;
+    vertical-align: top;
+}
+#lamode,#family_contacts,#fiveEleven{
+    background-color: silver;
+    display: inline-block;
+    width: 275px;
+    height: 550px;
+    margin: 15px;
+    vertical-align: top;
+}
+#footer{
+    background-color: silver;
+    width: 970px;
+    text-align: center;
+}
+.sub_header{
+    background-color: gray;
+    color: white;
+    font-size: 18px;
+    margin: 0px;
+}
+.small_img{
+    width: 40px;
+    display: inline-block;
+    margin: 5px;
+}
+.footer_img{
+    width: 15px;
+    display: inline-block;
+    margin: 1px
+}
+.green_button{
+    display: inline-block;
+    border-radius: 5px;
+    background-color: green;
+    border: 2px solid black;
+    color: white;
+    padding: 2px;
+    margin-left: 100px;
+}
